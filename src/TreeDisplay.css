@@ -1,0 +1,47 @@
+/* TreeDisplay.css */
+.tree-node-text {
+    font-size: 15px;
+    fill: red;
+    text-anchor: middle;
+    font-weight: 1;
+    /* font-family: 'Roboto', sans-serif; */
+    letter-spacing: 2px;
+  }
+  
+  .tree-referral-id {
+    font-size: 12px; /* Customize font size for referral ID */
+    fill: red; /* Customize color for referral ID */
+    text-anchor: middle;
+    font-weight: 10; /* Customize font weight for referral ID */
+    /* font-family: Arial, sans-serif; */
+    letter-spacing: 2px; /* Adjust spacing for referral ID */
+  }
+
+  .tree-tree-id {
+    font-size: 18px; /* Customize font size for referral ID */
+    fill: red; /* Customize color for referral ID */
+    text-anchor: middle;
+    font-weight: 10; /* Customize font weight for referral ID */
+    /* font-family: Arial, sans-serif; */
+    letter-spacing: 2px; /* Adjust spacing for referral ID */
+  }
+  
+
+  /* TreeDisplay.css  */
+.tree-node-text {
+  font-size: 15px;
+  fill: black;
+  text-anchor: middle;
+  font-weight: 1;
+   /* font-family: 'Roboto', sans-serif;  */
+  letter-spacing: 2px;
+}
+
+.tree-referral-id {
+  font-size: 12px; 
+  fill: black; 
+  text-anchor: middle;
+  font-weight: 10; 
+   /* font-family: Arial, sans-serif;  */
+  letter-spacing: 2px; 
+}
